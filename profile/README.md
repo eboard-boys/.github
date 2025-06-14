@@ -16,55 +16,55 @@ The seamless synergy between these microcontrollers is achieved through LoRa, a 
 ## Pictures
 
 ### Research and Creative Works Display
-![RCW Display](pictures/RCW_display.jpg)
+![RCW Display](../pictures/RCW_display.jpg)
 
 #### Wrist Monitor Closeup
-![Wrist Monitor RCW](pictures/wrist_monitor_RCW.jpg)
+![Wrist Monitor RCW](../pictures/wrist_monitor_RCW.jpg)
 
 ### Diagrams
 #### Project Plan
-![Plan Diagram](pictures/plan_diagram.jpg) - Diagram illustrating the project plan.
+![Plan Diagram](../pictures/plan_diagram.jpg) - Diagram illustrating the project plan.
 
 #### Poster During Design
-![Poster](pictures/poster.jpg) - Poster showcasing the electric longboard project.
+![Poster](../pictures/poster.jpg) - Poster showcasing the electric longboard project.
 
 #### Printed Poster
-![Printed Poster](pictures/printed_poster.jpg) - Physical copy of the project poster.
+![Printed Poster](../pictures/printed_poster.jpg) - Physical copy of the project poster.
 
 ### Longboard
 #### Underside View
-![Longboard Underside](pictures/longboard_underside.jpg)
+![Longboard Underside](../pictures/longboard_underside.jpg)
 
 #### Wheels
-![New Wheels](pictures/new_wheels.jpg)
+![New Wheels](../pictures/new_wheels.jpg)
 
 ### Battery Enclosure
 #### Bottom View
-![Battery Enclosure Bottom](pictures/battery_enclosure_bottom.jpg)
+![Battery Enclosure Bottom](../pictures/battery_enclosure_bottom.jpg)
 
 #### Side View
-![Battery Enclosure Side](pictures/battery_enclosure_side.jpg)
+![Battery Enclosure Side](../pictures/battery_enclosure_side.jpg)
 
 #### Top View
-![Battery Enclosure Top](pictures/battery_enclosure_top.jpg)
+![Battery Enclosure Top](../pictures/battery_enclosure_top.jpg)
 
 ### Wrist Monitor
 #### Enclosed Close-up
-![Wrist Monitor Closeup Enclosed](pictures/wrist_monitor_closeup_enclosed.jpg)
+![Wrist Monitor Closeup Enclosed](../pictures/wrist_monitor_closeup_enclosed.jpg)
 
 #### Without Case, Powered On
-![Wrist Monitor No Case Powered](pictures/wrist_monitor_no_case_powered.jpg)
+![Wrist Monitor No Case Powered](../pictures/wrist_monitor_no_case_powered.jpg)
 
 #### PCB Stack for Wrist Monitor
-![Wrist Monitor Stack](pictures/wrist_monitor_stack.jpg)
+![Wrist Monitor Stack](../pictures/wrist_monitor_stack.jpg)
 
 ### Throttle Control
 #### Throttle Mechanism
-![Throttle](pictures/throttle.jpg)
+![Throttle](../pictures/throttle.jpg)
 
 #### Throttle Case 3D Print
-![Throttle Case Print](pictures/throttle_case_print.jpg)
+![Throttle Case Print](../pictures/throttle_case_print.jpg)
 
 ### Team Photo
-![The Team](pictures/the_team.jpg)
+![The Team](../pictures/the_team.jpg)
 (Left to Right): Carson, Spencer, Dylan, Michael
